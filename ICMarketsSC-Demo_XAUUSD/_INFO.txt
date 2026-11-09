@@ -1,0 +1,19 @@
+Exported: 2026-11-09 17:59 (laptop time)
+Broker server: ICMarketsSC-Demo
+Company: Raw Trading Ltd
+Symbol: XAUUSD
+Digits: 2
+Point: 0.01
+Contract size: 100.0
+Times are BROKER SERVER time (usually GMT+2 winter / GMT+3 summer).
+'time' = server time as epoch seconds. 'spread' is in points.
+
+file,candles,first,last
+XAUUSD_M1_2026.csv,302463,2026.01.02,2026.11.09
+XAUUSD_M3_2026.csv,100919,2026.01.02,2026.11.09
+XAUUSD_M5_2026.csv,60579,2026.01.02,2026.11.09
+XAUUSD_M15_2026.csv,20197,2026.01.02,2026.11.09
+XAUUSD_M30_2026.csv,10100,2026.01.02,2026.11.09
+XAUUSD_H1_2026.csv,5054,2026.01.02,2026.11.09
+XAUUSD_H4_2026.csv,1321,2026.01.02,2026.11.09
+XAUUSD_D1_2026.csv,221,2026.01.02,2026.11.09
